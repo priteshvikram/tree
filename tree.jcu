@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>tree</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>tree</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\tree.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<batchbuilds>
+		<batchbuild>
+			<project>tree</project>
+			<enabled>true</enabled>
+		</batchbuild>
+	</batchbuilds>
+	<symboltables>
+		<symboltable>
+			<path>src\tree.java.sdk</path>
+			<symbols>
+				<symbol>T</symbol>
+				<symbol>node</symbol>
+				<symbol>tree</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>..\..\..\..\..\..\Program Files\Java\jdk1.6.0_31\src.zip!java\lang\Thread.java.sdk</path>
+			<symbols/>
+		</symboltable>
+	</symboltables>
+</workspace_user>
